@@ -3,8 +3,8 @@
  "name": "Undead",
  "start_url": "/index.html",
  "display": "standalone",
- "background_color": "#4fc3f7",
- "theme_color": "#ffcb2d",
+ "background_color": "#5C50EC",
+ "theme_color": "#099D0B",
  "icons": [
    {
      "src": "img/undead.png",
