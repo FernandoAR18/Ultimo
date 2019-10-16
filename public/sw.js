@@ -1,8 +1,8 @@
-﻿const CACHE = "cfspwa";
+﻿const CACHE = "Undead";
 // Archivos requeridos para que la aplicación funcione fuera de línea.
 const ARCHIVOS = [
  "css/estilos.css",
- "img/firebase.png",
+ "img/undead.png",
  "favicon.ico",
  "index.html",
  "manifest.json",

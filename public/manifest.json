@@ -1,13 +1,13 @@
 {
- "short_name": "cfspwa",
- "name": "Ejemplo de PWA",
+ "short_name": "Undead",
+ "name": "Undead",
  "start_url": "/index.html",
  "display": "standalone",
  "background_color": "#4fc3f7",
  "theme_color": "#ffcb2d",
  "icons": [
    {
-     "src": "img/firebase.png",
+     "src": "img/undead.png",
      "sizes": "1024x1024",
      "type": "image/png"
    }
